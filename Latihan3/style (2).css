@@ -1,0 +1,36 @@
+.kotak{
+    padding: 50px; /*memberi jarak dalam pada kotak*/
+    width: 100px; /*membuat lebar kotak 100px*/
+    height: 50px; /*membuat tinggi kotak 100px*/
+    color: rgb(255, 255, 255); /*memberi warna pada text / font */
+    margin: 10px; /* memberi jarak luar kotak */
+    background: #02d1c7; /*memberi warna kotak */
+    float: left; /*membuat kotak jadi kesamping kiri*/
+    }
+    #kotak {
+    padding: 50px;
+    width: 100px;
+    color: #666666;
+    height: 50px;
+    margin: 10px;
+    background: #c2f8bb;
+    float: left;
+    }
+.kotak{
+    padding: 50px; /*memberi jarak dalam pada kotak*/
+    width: 100px; /*membuat lebar kotak 100px*/
+    height: 50px; /*membuat tinggi kotak 100px*/
+    color: rgb(255, 255, 255); /*memberi warna pada text / font */
+    margin: 10px; /* memberi jarak luar kotak */
+    background: rgb(17, 122, 221); /*memberi warna kotak */
+    float: left; /*membuat kotak jadi kesamping kiri*/
+    }
+    #kotak {
+    padding: 50px;
+    width: 100px;
+    color: #666666;
+    height: 50px;
+    margin: 10px;
+    background: #fa6377;
+    float: left;
+    }
